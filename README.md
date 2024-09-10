@@ -1,2 +1,2 @@
-#CODSOFT
-#Internship in python programming
+CODSOFT
+Internship in python programming
